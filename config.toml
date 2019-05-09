@@ -1,0 +1,4 @@
+baseURL = "https://yoururl/"
+languageCode = "en-us"
+title = "Amplify Demo"
+theme = "whisper"
