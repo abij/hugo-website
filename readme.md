@@ -7,7 +7,7 @@ In this workshop we are going to build a static website with AWS Amplify Console
 3. Launch the website locally: `hugo server -D`.
 4. Download this repository
 5. Go to the AWS Amplify Console and create a new website
-6. Customize the domain name and use an SSL cert
+6. Customize the domain name and use an SSL cert (https://<yourname>.class.awschampion.com)
 7. Bonus: Push some content changes
 8. Bonus: Install another theme
-
+9. Bonus: Add a new branch (test). Connect the new branch, and protect this branch with a username/password.
