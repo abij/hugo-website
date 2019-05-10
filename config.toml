@@ -1,4 +1,8 @@
-baseURL = "https://yoururl/"
+baseURL = "https://abij.class.awschampion.com"
 languageCode = "en-us"
 title = "Amplify Demo"
 theme = "whisper"
+
+[Params.logo]
+standard = "images/logo.svg"
+mobile = "images/logo-mobile.svg"
